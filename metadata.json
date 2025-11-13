@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Luan App -  Caminho da Luz",
+  "description": "Seu guia de fé e reflexão diária. Registre seus sentimentos e receba reflexões espirituais, ensinamentos e versículos bíblicos guiados por IA para iluminar sua jornada espiritual.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
